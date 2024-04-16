@@ -1,8 +1,6 @@
 # IsoMarker
-!(https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png?raw=true)
+![plot](./IsoMarker.png)
 
-
-<img src="[https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png](https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png)" alt="Logo" width="400" style="float: right;"/>
 
 
 
