@@ -1,7 +1,10 @@
 # IsoMarker
-!["Logo"](https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png?raw=true)
+!(https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png?raw=true)
 
-https://github.com/davidchen0420/IsoMarker/tree/main
+
+<img src="[https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png](https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png)" alt="Logo" width="400" style="float: right;"/>
+
+
 
 ## Main
 IsoMarker is a Python3 software package designed to identify gene expression markers using the consensus overlap of Differential Expression (PyDESeq2), AUC (WilcoxAUC), and machine learning explainability (SHAP) approaches.
