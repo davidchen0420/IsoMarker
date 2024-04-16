@@ -14,7 +14,7 @@ pip install isomarker
 ```
 
 ## Tutorial
-Coming soon...
+Tutorial is provided in ./tutorial/Tutorial.ipynb with a sample dataset. All analytical and visualization functions in IsoMarker are described and used in the tutorial.
 
 ## File Structure
 <pre>
@@ -22,6 +22,9 @@ Coming soon...
 ├── README.md
 ├── isomarker.py                                                
 ├── setup.py
+├── tutorial
+│   └── Tutorial.ipynb
+│   └── sample_anndata.h5ad
 </pre>
 
 ## Contributing
