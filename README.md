@@ -1,6 +1,6 @@
 # IsoMarker
 
-<img src="https://github.com/davidchen0420/IsoMarker/tree/main/IsoMarker.png" alt="Logo" width="800" style="float: right;"/>
+<img src="https://github.com/davidchen0420/IsoMarker/tree/main/IsoMarker.png" alt="Logo" width="400" style="float: right;"/>
 
 https://github.com/davidchen0420/IsoMarker/tree/main
 
