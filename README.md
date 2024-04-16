@@ -4,6 +4,8 @@
 ## Main
 IsoMarker is a Python3 software package designed to identify gene expression markers using the consensus overlap of Differential Expression (PyDESeq2), AUC (WilcoxAUC), and machine learning explainability (SHAP) approaches.
 
+IsoMarker was originally designed for the task of identifying cell surface markers for specific leukemic blast cell states useful for acute leukemia diagnostic subtyping by flow cytometry.
+
 ## Description
 Identifying gene expression markers of cell states is classically computed using differential expression approaches of transcriptomic data. However, differential expression often leads to large gene lists (>100s of genes) that may be redundant and introduce noise when collectively used to identify specific cell states.
 
