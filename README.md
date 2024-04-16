@@ -1,8 +1,5 @@
 # IsoMarker
-
-<img src="https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png" alt="Logo" width="400" style="float: right;"/>
-
-<img src="https://github.com/HillLab/SomaticSiMu/blob/master/Documentation%20/SomaticSiMu_Logo.png" alt="Logo" width="800" style="float: right;"/>
+!["Logo"](https://github.com/davidchen0420/IsoMarker/blob/master/IsoMarker.png?raw=true)
 
 https://github.com/davidchen0420/IsoMarker/tree/main
 
