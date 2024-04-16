@@ -8,7 +8,7 @@ setup(
     author='David Chen',
     author_email='davidc.chen@mail.utoronto.ca',
     license='BSD 2-clause',
-    packages=['IsoMarker'],
+    packages=['isomarker'],
     install_requires=['pandas>=1.5.3',
                       'numpy>=1.24.2',   
                       'anndata>=0.10.2',
