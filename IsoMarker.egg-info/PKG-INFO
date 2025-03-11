@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: IsoMarker
+Version: 0.7.0
+Summary: IsoMarker
+Home-page: https://github.com/davidchen0420
+Author: David Chen
+Author-email: davidc.chen@mail.utoronto.ca
+License: BSD 2-clause
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3
+License-File: LICENSE
+Requires-Dist: pandas>=1.5.3
+Requires-Dist: numpy>=1.24.2
+Requires-Dist: anndata>=0.10.2
+Requires-Dist: scanpy>=1.10.1
+Requires-Dist: matplotlib>=3.8.0
+Requires-Dist: seaborn>=0.13.0
+Requires-Dist: scikit-learn>=1.3.1
+Requires-Dist: pydeseq2>=0.4.8
+Requires-Dist: shap>=0.44.0
+Requires-Dist: jenkspy>=0.4.0
+Requires-Dist: scipy>=1.13.0
+Requires-Dist: UpSetPlot>=0.9.0
+Requires-Dist: adjustText>=1.1.1

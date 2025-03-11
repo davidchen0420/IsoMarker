@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+IsoMarker.egg-info/PKG-INFO
+IsoMarker.egg-info/SOURCES.txt
+IsoMarker.egg-info/dependency_links.txt
+IsoMarker.egg-info/requires.txt
+IsoMarker.egg-info/top_level.txt
+isomarker/isomarker.py

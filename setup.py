@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='IsoMarker',
-    version='0.2.0',    
+    version='0.7.0',    
     description='IsoMarker',
     url='https://github.com/davidchen0420',
     author='David Chen',
@@ -18,13 +18,10 @@ setup(
                         'scikit-learn>=1.3.1',
                         'pydeseq2>=0.4.8',
                         'shap>=0.44.0',
-                        'xgboost>=2.0.3',
                         'jenkspy>=0.4.0',
                         'scipy>=1.13.0',
                         'UpSetPlot>=0.9.0',
                         'adjustText>=1.1.1',
-                        'jax==0.4.26',
-                        'jaxlib==0.4.26'
                       ],
 
     classifiers=[
